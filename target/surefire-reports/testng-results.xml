@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-16T16:20:15 IST" name="Suite" finished-at="2020-08-16T16:20:15 IST" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2020-08-16T16:20:15 IST" name="Test" finished-at="2020-08-16T16:20:15 IST" duration-ms="67">
+      <class name="test.RestAPI_Test">
+        <test-method signature="PostJira()[pri:0, instance:test.RestAPI_Test@37271612]" started-at="2020-08-16T16:20:15 IST" name="PostJira" finished-at="2020-08-16T16:20:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method signature="DeleteTwitter()[pri:0, instance:test.RestAPI_Test@37271612]" started-at="2020-08-16T16:20:15 IST" name="DeleteTwitter" finished-at="2020-08-16T16:20:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+      </class> <!-- test.RestAPI_Test -->
+      <class name="test.Appium_Test">
+        <test-method signature="IosApps()[pri:0, instance:test.Appium_Test@3af9c5b7]" started-at="2020-08-16T16:20:15 IST" name="IosApps" finished-at="2020-08-16T16:20:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+        <test-method signature="NativeApp()[pri:0, instance:test.Appium_Test@3af9c5b7]" started-at="2020-08-16T16:20:15 IST" name="NativeApp" finished-at="2020-08-16T16:20:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApp -->
+      </class> <!-- test.Appium_Test -->
+      <class name="test.Selenium_Test">
+        <test-method signature="BrowserAutomation()[pri:0, instance:test.Selenium_Test@10aa41f2]" started-at="2020-08-16T16:20:15 IST" name="BrowserAutomation" finished-at="2020-08-16T16:20:15 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementsUI()[pri:0, instance:test.Selenium_Test@10aa41f2]" started-at="2020-08-16T16:20:15 IST" name="ElementsUI" finished-at="2020-08-16T16:20:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- test.Selenium_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
